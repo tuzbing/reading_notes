@@ -1,0 +1,4 @@
+streaming algorithms
+     a streaming algorithm is a method of managing a flow of data by examining arriving items once and then discarding them.
+     benifit of streaming algorithms: used to manage data that is continuously generated and where the total volume is extremly large, even if the volume is too large for memory
+     
